@@ -1,0 +1,7 @@
+The five github commands that I have learned so far are as follows:
+(1). git clone
+(2). git status
+(3). git add
+(4). git commit -m
+(5). git push
+
