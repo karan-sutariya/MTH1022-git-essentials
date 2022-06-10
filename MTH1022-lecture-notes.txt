@@ -5,3 +5,21 @@ The five github commands that I have learned so far are as follows:
 (4). git commit -m
 (5). git push
 
+
+
+
+/
+/
+/
+/
+/
+//
+/
+///
+
+/
+/
+/
+/
+//
+----------------
